@@ -10,4 +10,4 @@
 
 ### Gitbook 好讀版
 
-請至[https://welson327.gitbooks.io/-tensorflow-keras/content/]
+[請至](https://welson327.gitbooks.io/-tensorflow-keras/content/)
